@@ -53,6 +53,7 @@ library
     , lens                    >= 4    && < 5
     , monad-time              >= 0.2  && < 0.3
     , time                    >= 1.5  && < 1.9
+    , servant-auth            == 0.2.*
     , servant-server          >= 0.9.1  && < 0.12
     , base64-bytestring       >= 1    && < 2
     , blaze-builder           >= 0.4  && < 0.5
